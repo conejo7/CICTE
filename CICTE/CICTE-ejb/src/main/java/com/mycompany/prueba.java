@@ -13,5 +13,6 @@ public class prueba
 {
     private String p="prueba";
     private String text="hola";
-    
+    private String text1="hola2";
+    private String text2="hola3";
 }
