@@ -12,5 +12,6 @@ package com.mycompany;
 public class prueba 
 {
     private String p="prueba";
+    private String text="hola";
     
 }
