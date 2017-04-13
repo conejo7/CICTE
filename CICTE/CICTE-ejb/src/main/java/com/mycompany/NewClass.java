@@ -12,6 +12,5 @@ package com.mycompany;
 public class NewClass {
     
     private String text;
-    
-    
+    private String aux;
 }
